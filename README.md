@@ -13,10 +13,10 @@ The study region is constituted of the central and southern Guangdong Province o
 <img src="https://github.com/Tsingzao/TIGAM/blob/main/img/data.png" width="400"  alt="area"/><br/>
 
 ### Methods
-<img src="https://github.com/Tsingzao/TIGAM/blob/main/img/method.png" width="400"  alt="area"/><br/>
+<img src="https://github.com/Tsingzao/TIGAM/blob/main/img/method.png" width="900"  alt="area"/><br/>
 
 ### Visualization
-<img src="https://github.com/Tsingzao/TIGAM/blob/main/img/result.png" width="400"  alt="area"/><br/>
+<img src="https://github.com/Tsingzao/TIGAM/blob/main/img/result.png" width="600"  alt="area"/><br/>
 
 ### Result
 <img src="https://github.com/Tsingzao/TIGAM/blob/main/img/result1.png" width="400"  alt="area"/><br/>
